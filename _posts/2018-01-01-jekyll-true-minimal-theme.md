@@ -1,26 +1,18 @@
 ---
 layout: post
-title:  "Jekyll true minimal theme"
-date:   2018-01-01 23:22:40 +0300
+title:  "What is people driven care?"
+date:   2024-08-02 23:22:40 +0300
 ---
 
-True minimal theme is extremely lightweight and ascetic jekyll theme.
+Lets talk about what this means.
 
-This theme has only one css file, which is used for source code highlighting. 
+### Can people drive care decisions? 
+
+In simple terms, perhaps. In critical domains, _no_. In primary care? __Yes__.
 
 
-# Heading 1
-## Heading 2
-### Heading 3
 
-List of entries:
-
-- item 1
-- item 2
-- item 3
-- item 4
-
-Source code are highlighted:
+__(more will be added, as we move along)__
 
 ```perl
 #!/usr/bin/perl
