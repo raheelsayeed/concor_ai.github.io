@@ -2,7 +2,16 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
+
+<h2>So, can people <em>help</em> drive primary care?</h2>
+<p>Consider this, [1] theres absolute shortage of doctors. [2] Primary care physicians are far short and fewer [3] and theres this new ai stuff. </p>
+<p><em>more soon ... </em></p>
+
+<h3>refs<h3>
+<li><a href="https://www.aamc.org/news/press-releases/new-aamc-report-shows-continuing-projected-physician-shortage">New AAMC Report Shows Continuing Projected Physician Shortage</a></li>
+
+
+<!-- {% for post in paginator.posts %}
 <section>
   <h2>
     <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>
@@ -10,9 +19,10 @@ layout: default
     </a>
   </h2>
   
-  <p>{{ post.excerpt | strip_html | truncate: 1000 }}</p>
+<p>{{ post.excerpt | strip_html | truncate: 1000 }}</p>
 </section>       
 {% endfor %}
+
 
 {% if paginator.previous_page %}
 <a href='{{ site.url }}{{ paginator.previous_page_path }}'>Previous</a>
@@ -23,4 +33,5 @@ layout: default
 {% if paginator.next_page %}
 <a href='{{ site.url }}{{ paginator.next_page_path }}'>Next</a>
 {% endif %}
+-->
 
