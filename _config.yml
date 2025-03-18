@@ -1,7 +1,7 @@
 name: "Concor ai"
 description: "People_Driven_Care"
 
-url: '' 
+url: 'https://concor.ai' 
 baseurl: ''
 
 markdown: kramdown
