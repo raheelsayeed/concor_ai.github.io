@@ -13,10 +13,9 @@ Consider this:
 3. Key ideas of overall well being and prevention are lost to large tertiary health systems. For which, they, are simply, not made for! 
 4. There this new ai stuff. But who cares? How does it work for us? people and doctors! 
 
+### Read more: 
 
-
-<h3>Read more:<h3>
-<li><a href="https://www.aamc.org/news/press-releases/new-aamc-report-shows-continuing-projected-physician-shortage">New AAMC Report Shows Continuing Projected Physician Shortage</a></li>
+- [New AAMC Report Shows Continuing Project Physician Shortage](https://www.aamc.org/news/press-releases/new-aamc-report-shows-continuing-projected-physician-shortage)
 
 
 <!-- {% for post in paginator.posts %}
