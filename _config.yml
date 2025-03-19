@@ -4,7 +4,7 @@ description: "People_Driven_Care"
 url: 'https://concor.ai' 
 baseurl: ''
 
-markdown: kramdown
+markdown: GFM
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 
